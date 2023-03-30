@@ -9,4 +9,5 @@ $ git clone https://github.com/SivasuriyanM/Diabetes-and-Heart-disease-Predictio
 Run it
 
 $ cd Diabetes-and-Heart-disease-Prediction
+
 $ python manage.py runserver
