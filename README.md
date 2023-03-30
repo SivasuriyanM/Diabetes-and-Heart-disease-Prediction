@@ -4,4 +4,9 @@ Using Djongo Diabetes and Heart disease prediction site was developed to reduce 
 
 Getting it
 
-$ git clone
+$ git clone https://github.com/SivasuriyanM/Diabetes-and-Heart-disease-Prediction.git
+
+Run it
+
+$ cd Diabetes-and-Heart-disease-Prediction
+$ python manage.py runserver
